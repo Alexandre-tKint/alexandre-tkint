@@ -1,16 +1,15 @@
 ### Hi there 👋
 
+
+#### 🎤 Public Speaking
+
+#### 📜 My recent blog posts
+<!-- BLOG-POST-LIST:START -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alexandre.tkint/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alexandre.tkint/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/1" alt="Recent Article 1"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@alexandre.tkint/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@margauxvanderplaetsen/2" alt="Recent Article 2"> 
+<!-- BLOG-POST-LIST:END -->
+*Find all my blog posts [here](https://medium.com/@alexandre.tkint)*
 <!--
-**Alexandre-tKint/alexandre-tkint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
