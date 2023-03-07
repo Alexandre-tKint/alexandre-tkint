@@ -1,7 +1,9 @@
 ### Hi there 👋
-
+I’m Alexandre t'Kint and work as a Data Scientist at Collibra for almost 4 years now. There I helped to build out the Data Office from scratch. I'm passionate about data and its applications, especially when it comes to building data products. I'm a frequent speaker at conferences, where I talk about topics such as data products, AI, and how to integrate those with new technologies. I'm also an avid writer and have authored several blogs. I'm always looking for ways to innovate and push the boundaries of what's possible with data. 
 
 #### 🎤 Public Speaking
+* HG Vision 2022 - Santa Barbara - Data Products and the future of them 
+* Data Cititzens 2022 - San Diego - How to monetize data products with the 8 step process 
 
 #### 📜 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
