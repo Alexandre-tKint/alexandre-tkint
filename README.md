@@ -4,6 +4,7 @@ I’m Alexandre t'Kint and work as a Data Scientist at Collibra for almost 4 yea
 #### 🎤 Public Speaking
 * HG Vision 2022 - Santa Barbara - Data Products and the future of them 
 * Data Cititzens 2022 - San Diego - How to monetize data products with the 8 step process 
+* Data Deep Dive - Copenhaegen - How will LLMs revolutionize the Data Intelligence Space
 
 #### 📜 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
