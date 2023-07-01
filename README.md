@@ -5,6 +5,9 @@ I’m Alexandre t'Kint and work as a Data Scientist at Collibra for almost 4 yea
 * HG Vision 2022 - Santa Barbara - Data Products and the future of them 
 * Data Cititzens 2022 - San Diego - How to monetize data products with the 8 step process 
 * Data Deep Dive - Copenhaegen - How will LLMs revolutionize the Data Intelligence Space
+* AWS Summit 2023 - Amsterdam - How Collibra's Data Office delivers new Data Products up to 3 times faster using Amazon SageMaker
+* Data Citizens On The Road 2023 - London - Mastering AI Governance ‘for your LLMs’
+* Data Citizens On The Road 2023 - Paris - Drive trusted and safe AI use cases for your organization
 
 #### 📜 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
